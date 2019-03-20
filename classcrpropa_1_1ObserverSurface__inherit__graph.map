@@ -1,0 +1,4 @@
+<map id="ObserverSurface" name="ObserverSurface">
+<area shape="rect" id="node2" href="$group__Observer.html#classcrpropa_1_1ObserverFeature" title="Abstract base class for features of cosmic ray observers. " alt="" coords="6,80,124,107"/>
+<area shape="rect" id="node3" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="21,5,109,32"/>
+</map>

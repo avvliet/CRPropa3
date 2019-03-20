@@ -1,0 +1,14 @@
+<map id="AbstractCondition" name="AbstractCondition">
+<area shape="rect" id="node4" href="$group__Condition.html#classcrpropa_1_1CubicBoundary" title="Flags a particle when exiting the cube. " alt="" coords="465,5,575,32"/>
+<area shape="rect" id="node5" href="$group__Condition.html#classcrpropa_1_1CylindricalBoundary" title="Flags a particle when leaving the cylinder. This module flags particles when outside of the cylinder..." alt="" coords="451,56,589,83"/>
+<area shape="rect" id="node6" href="$group__Condition.html#classcrpropa_1_1DetectionLength" title="Detects the candidate at a given trajectoryLength. " alt="" coords="461,107,579,133"/>
+<area shape="rect" id="node7" href="$group__Condition.html#classcrpropa_1_1EllipsoidalBoundary" title="Flags a particle when leaving the ellipsoid. " alt="" coords="452,157,588,184"/>
+<area shape="rect" id="node8" href="$group__Condition.html#classcrpropa_1_1MaximumTrajectoryLength" title="Deactivates the candidate beyond a maximum trajectory length. " alt="" coords="432,208,608,235"/>
+<area shape="rect" id="node9" href="$group__Condition.html#classcrpropa_1_1MinimumEnergy" title="Deactivates the candidate below a minimum energy. " alt="" coords="462,259,578,285"/>
+<area shape="rect" id="node10" href="$group__Condition.html#classcrpropa_1_1MinimumRedshift" title="Deactivates the candidate below a minimum redshift. " alt="" coords="458,309,582,336"/>
+<area shape="rect" id="node11" href="$group__Condition.html#classcrpropa_1_1MinimumRigidity" title="Deactivates the candidate below a minimum rigidity. " alt="" coords="461,360,579,387"/>
+<area shape="rect" id="node12" href="$group__Tools.html#classcrpropa_1_1ParticleFilter" title="Reject Particles not listed in filter. " alt="" coords="473,411,567,437"/>
+<area shape="rect" id="node13" href="$group__Condition.html#classcrpropa_1_1SphericalBoundary" title="Flag a particle when leaving the sphere. " alt="" coords="455,461,585,488"/>
+<area shape="rect" id="node2" href="$classcrpropa_1_1Module.html" title="Abstract base class for modules. " alt="" coords="144,233,208,260"/>
+<area shape="rect" id="node3" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="6,233,95,260"/>
+</map>

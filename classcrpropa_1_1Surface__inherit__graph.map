@@ -1,0 +1,6 @@
+<map id="Surface" name="Surface">
+<area shape="rect" id="node3" href="$group__Core.html#classcrpropa_1_1ParaxialBox" title="A box with perpendicular surfaces aligned to the x,y,z&#45;axes. " alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node4" href="$group__Core.html#classcrpropa_1_1Plane" title="A plane given by a point x0 and two axes v1 and v2 with normal n = v1.cross(v2) or the normal n..." alt="" coords="121,155,175,181"/>
+<area shape="rect" id="node5" href="$group__Core.html#classcrpropa_1_1Sphere" title="A sphere around point _center with radius _radius. " alt="" coords="199,155,261,181"/>
+<area shape="rect" id="node2" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="103,5,192,32"/>
+</map>

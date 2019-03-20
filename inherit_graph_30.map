@@ -1,0 +1,131 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="6,883,95,909"/>
+<area shape="rect" id="node2" href="$classcrpropa_1_1AdvectionField.html" title="Abstract base class for advection fields. These are used to model the deterministic part of the Fokke..." alt="" coords="174,148,282,175"/>
+<area shape="rect" id="node8" href="$group__Core.html#classcrpropa_1_1Candidate" title="All information about the cosmic ray. " alt="" coords="187,351,269,377"/>
+<area shape="rect" id="node9" href="$group__SourceFeatures.html#classcrpropa_1_1CylindricalProjectionMap" title="2D histogram of spherical coordinates in equal&#45;area projection " alt="" coords="145,401,311,428"/>
+<area shape="rect" id="node10" href="$classcrpropa_1_1Density.html" title="Abstract base class for targetdensity. " alt="" coords="195,452,261,479"/>
+<area shape="rect" id="node16" href="$group__SourceFeatures.html#classcrpropa_1_1EmissionMap" title="Particle Type and energy binned emission maps. " alt="" coords="177,807,279,833"/>
+<area shape="rect" id="node17" href="$group__Core.html#classcrpropa_1_1Grid" title="Template class for fields on a periodic grid with trilinear interpolation. " alt="" coords="189,857,267,884"/>
+<area shape="rect" id="node18" href="$group__MagneticFields.html#classcrpropa_1_1MagneticField" title="Abstract base class for magnetic fields. " alt="" coords="177,908,279,935"/>
+<area shape="rect" id="node35" href="$classcrpropa_1_1Module.html" title="Abstract base class for modules. " alt="" coords="196,2099,260,2125"/>
+<area shape="rect" id="node82" href="$group__Observer.html#classcrpropa_1_1ObserverFeature" title="Abstract base class for features of cosmic ray observers. " alt="" coords="169,3289,287,3316"/>
+<area shape="rect" id="node96" href="$group__SourceFeatures.html#classcrpropa_1_1SourceFeature" title="Abstract base class cosmic ray source features. " alt="" coords="175,4277,281,4304"/>
+<area shape="rect" id="node123" href="$group__SourceFeatures.html#classcrpropa_1_1SourceInterface" title="Abstract base class for cosmic ray sources. " alt="" coords="171,4987,285,5013"/>
+<area shape="rect" id="node126" href="$group__Core.html#classcrpropa_1_1Surface" title="A geometrical surface. " alt="" coords="195,5113,261,5140"/>
+<area shape="rect" id="node3" href="$classcrpropa_1_1AdvectionFieldList.html" title="Advection field decorator implementing a superposition of fields. " alt="" coords="394,5,523,32"/>
+<area shape="rect" id="node4" href="$classcrpropa_1_1ConstantSphericalAdvectionField.html" title="Spherical advection field with a constant wind speed. " alt="" coords="365,57,552,98"/>
+<area shape="rect" id="node5" href="$classcrpropa_1_1SphericalAdvectionField.html" title="Spherical advection with a exponentially increasing and exponentially constant velocity. " alt="" coords="377,123,540,149"/>
+<area shape="rect" id="node6" href="$classcrpropa_1_1SphericalAdvectionShock.html" title="Spherical advection with a constant velocity for r&lt;r_0 at the the shock the velocity drops to v_0/4..." alt="" coords="373,173,544,200"/>
+<area shape="rect" id="node7" href="$classcrpropa_1_1UniformAdvectionField.html" title="Advection field with one velocity/advection&#45;field vector. " alt="" coords="381,224,536,251"/>
+<area shape="rect" id="node11" href="$classcrpropa_1_1ConstantDensity.html" title="ConstantDensity" alt="" coords="399,275,519,301"/>
+<area shape="rect" id="node12" href="$classcrpropa_1_1Cordes.html" title="zylindrical symetrical model of the density of ionised hydrogen (HII) of the Milkyway Cordes et al..." alt="" coords="427,325,491,352"/>
+<area shape="rect" id="node13" href="$classcrpropa_1_1DensityList.html" title="Superposition of density models. the addDensity function adds a new density to the list..." alt="" coords="415,376,503,403"/>
+<area shape="rect" id="node14" href="$classcrpropa_1_1Ferriere.html" title="model of the distribution of hydrogen in the Milky Way Here in model Ferriere 2007 seperated in 2 reg..." alt="" coords="425,427,492,453"/>
+<area shape="rect" id="node15" href="$classcrpropa_1_1Nakanishi.html" title="zylindrical symetrical model of the density distribution of the Milkyway for atomic (HI) and molecula..." alt="" coords="419,477,499,504"/>
+<area shape="rect" id="node19" href="$group__MagneticFields.html#classcrpropa_1_1AMRMagneticField" title="Wrapper for saga::MagneticField. " alt="" coords="392,528,525,555"/>
+<area shape="rect" id="node20" href="$classcrpropa_1_1ArchimedeanSpiralField.html" title="Magnetic field model following a Archimedean spiral. " alt="" coords="379,579,538,605"/>
+<area shape="rect" id="node21" href="$classcrpropa_1_1JF12Field.html" title="JF12Field galactic magnetic field model. " alt="" coords="419,629,498,656"/>
+<area shape="rect" id="node23" href="$classcrpropa_1_1LogarithmicSpiralField.html" title="Galactic disk field model of axisymmetric (ASS) or bisymmetric (BSS) logarithmic spiral shape..." alt="" coords="383,680,534,707"/>
+<area shape="rect" id="node24" href="$group__MagneticFields.html#classcrpropa_1_1MagneticDipoleField" title="Magnetic dipole field defined by the magnetic moment and the &#39;core&#39; radius. " alt="" coords="389,731,529,757"/>
+<area shape="rect" id="node25" href="$group__MagneticFields.html#classcrpropa_1_1MagneticFieldEvolution" title="Magnetic field decorator implementing an evolution of type (1+z)^m. " alt="" coords="380,781,537,808"/>
+<area shape="rect" id="node26" href="$group__MagneticFields.html#classcrpropa_1_1MagneticFieldGrid" title="Magnetic field on a periodic (or reflective), cartesian grid with trilinear interpolation. " alt="" coords="395,832,522,859"/>
+<area shape="rect" id="node27" href="$group__MagneticFields.html#classcrpropa_1_1MagneticFieldList" title="Magnetic field decorator implementing a superposition of fields. " alt="" coords="397,883,521,909"/>
+<area shape="rect" id="node28" href="$group__MagneticFields.html#classcrpropa_1_1ModulatedMagneticFieldGrid" title="Modulated magnetic field on a periodic grid. " alt="" coords="365,933,552,960"/>
+<area shape="rect" id="node29" href="$group__MagneticFields.html#classcrpropa_1_1PeriodicMagneticField" title="Magnetic field decorator implementing periodic fields. " alt="" coords="383,984,534,1011"/>
+<area shape="rect" id="node30" href="$classcrpropa_1_1PT11Field.html" title="PT11Field" alt="" coords="418,1035,499,1061"/>
+<area shape="rect" id="node31" href="$classcrpropa_1_1QuimbyMagneticField.html" title="Wrapper for quimby::MagneticField. " alt="" coords="385,1085,533,1112"/>
+<area shape="rect" id="node32" href="$group__MagneticFields.html#classcrpropa_1_1RenormalizeMagneticField" title="Renormalize strength of a given field by expression in which B is the strength variable. " alt="" coords="371,1136,547,1163"/>
+<area shape="rect" id="node33" href="$classcrpropa_1_1TorroidalHaloField.html" title="Galactic halo field model from Prouza &amp; Smida 2003 and Sun et al. 2008. " alt="" coords="395,1187,522,1213"/>
+<area shape="rect" id="node34" href="$group__MagneticFields.html#classcrpropa_1_1UniformMagneticField" title="Magnetic field with one B&#45;field vector. " alt="" coords="384,1237,533,1264"/>
+<area shape="rect" id="node22" href="$classcrpropa_1_1JF12FieldSolenoidal.html" title="JF12FieldSolenoidal galactic magnetic field model. " alt="" coords="624,629,763,656"/>
+<area shape="rect" id="node36" href="$classcrpropa_1_1AbstractCondition.html" title="Abstract Module providing common features for conditional modules. " alt="" coords="395,1288,522,1315"/>
+<area shape="rect" id="node47" href="$group__EnergyLosses.html#classcrpropa_1_1AdiabaticCooling" title="Implements adiabatic cooling/heating due to advection. " alt="" coords="399,1339,519,1365"/>
+<area shape="rect" id="node48" href="$group__Propagation.html#classcrpropa_1_1DiffusionSDE" title="Propagates candidates as pseudo(!)&#45;particles. The time integration of SDEs is used to solve the trans..." alt="" coords="407,1389,510,1416"/>
+<area shape="rect" id="node49" href="$classcrpropa_1_1ElasticScattering.html" title="Elastic scattering of background photons on cosmic ray nuclei. " alt="" coords="398,1440,519,1467"/>
+<area shape="rect" id="node50" href="$group__EnergyLosses.html#classcrpropa_1_1ElectronPairProduction" title="Electron&#45;pair production of charged nuclei with background photons. " alt="" coords="381,1491,536,1517"/>
+<area shape="rect" id="node51" href="$classcrpropa_1_1EMCascade.html" title="Collects and deactivates photons, electrons and positrons. Uses DINT to calculate the EM cascade..." alt="" coords="411,1541,506,1568"/>
+<area shape="rect" id="node52" href="$classcrpropa_1_1EMDoublePairProduction.html" title="Electron double pair production of photons with background photons. " alt="" coords="375,1592,543,1619"/>
+<area shape="rect" id="node53" href="$classcrpropa_1_1EMInverseComptonScattering.html" title="Inverse Compton scattering of electrons with background photons. " alt="" coords="360,1643,557,1669"/>
+<area shape="rect" id="node54" href="$group__Tools.html#classcrpropa_1_1EmissionMapFiller" title="Fill EmissionMap with source particle state. " alt="" coords="394,1693,523,1720"/>
+<area shape="rect" id="node55" href="$classcrpropa_1_1EMPairProduction.html" title="Electron&#45;pair production of photons with background photons. " alt="" coords="395,1744,522,1771"/>
+<area shape="rect" id="node56" href="$group__EnergyLosses.html#classcrpropa_1_1EMTripletPairProduction" title="Electron triplet pair production of electrons with background photons. " alt="" coords="377,1795,540,1821"/>
+<area shape="rect" id="node57" href="$group__EnergyLosses.html#classcrpropa_1_1FutureRedshift" title="Updates redshift and applies adiabatic energy loss according to the traveled distance. Extends to negative redshift values to allow for symmetric time windows around z=0. " alt="" coords="405,1845,513,1872"/>
+<area shape="rect" id="node58" href="$classcrpropa_1_1ModuleList.html" title="The simulation itself: A list of simulation modules. " alt="" coords="416,1896,501,1923"/>
+<area shape="rect" id="node59" href="$classcrpropa_1_1ModuleListRunner.html" title="Run the provided ModuleList when process is called. " alt="" coords="395,1947,522,1973"/>
+<area shape="rect" id="node60" href="$group__EnergyLosses.html#classcrpropa_1_1NuclearDecay" title="Nuclear decay of unstable nuclei. " alt="" coords="406,1997,511,2024"/>
+<area shape="rect" id="node61" href="$group__Observer.html#classcrpropa_1_1Observer" title="General cosmic ray observer. " alt="" coords="421,2048,496,2075"/>
+<area shape="rect" id="node62" href="$classcrpropa_1_1Output.html" title="Configurable output base class. " alt="" coords="428,2099,489,2125"/>
+<area shape="rect" id="node65" href="$group__Output.html#classcrpropa_1_1ParticleCollector" title="A helper ouput mechanism to keep candidates in&#45;memory and directly transfer them to Python..." alt="" coords="399,2149,518,2176"/>
+<area shape="rect" id="node66" href="$group__Tools.html#classcrpropa_1_1PerformanceModule" title="Module to monitor the simulation performance. " alt="" coords="389,2200,528,2227"/>
+<area shape="rect" id="node67" href="$group__Condition.html#classcrpropa_1_1PeriodicBox" title="Rectangular box with periodic boundaries. " alt="" coords="413,2251,505,2277"/>
+<area shape="rect" id="node68" href="$group__EnergyLosses.html#classcrpropa_1_1PhotoDisintegration" title="Photodisintegration of nuclei by background photons. " alt="" coords="391,2301,527,2328"/>
+<area shape="rect" id="node69" href="$classcrpropa_1_1PhotonEleCa.html" title="PhotonEleCa" alt="" coords="409,2352,508,2379"/>
+<area shape="rect" id="node70" href="$group__Output.html#classcrpropa_1_1PhotonOutput1D" title="PhotonOutput1D" alt="" coords="399,2403,518,2429"/>
+<area shape="rect" id="node71" href="$group__EnergyLosses.html#classcrpropa_1_1PhotoPionProduction" title="Photo&#45;pion interactions of nuclei with background photons. " alt="" coords="387,2453,531,2480"/>
+<area shape="rect" id="node72" href="$group__Propagation.html#classcrpropa_1_1PropagationBP" title="Propagation through magnetic fields using the Boris method. " alt="" coords="404,2504,513,2531"/>
+<area shape="rect" id="node73" href="$group__Propagation.html#classcrpropa_1_1PropagationCK" title="Rectilinear propagation through magnetic fields using the Cash&#45;Karp method. " alt="" coords="403,2555,514,2581"/>
+<area shape="rect" id="node74" href="$group__EnergyLosses.html#classcrpropa_1_1Redshift" title="Updates redshift and applies adiabatic energy loss according to the traveled distance. " alt="" coords="423,2605,494,2632"/>
+<area shape="rect" id="node75" href="$group__Condition.html#classcrpropa_1_1ReflectiveBox" title="Rectangular box with reflective boundaries. " alt="" coords="407,2656,511,2683"/>
+<area shape="rect" id="node76" href="$group__Condition.html#classcrpropa_1_1RestrictToRegion" title="Limit Module to region in simulation. " alt="" coords="397,2707,521,2733"/>
+<area shape="rect" id="node77" href="$group__Output.html#classcrpropa_1_1ShellOutput" title="Show the trajectory in the shell. " alt="" coords="413,2757,504,2784"/>
+<area shape="rect" id="node78" href="$group__Output.html#classcrpropa_1_1ShellOutput1D" title="Show the trajectory in the shell. " alt="" coords="405,2808,512,2835"/>
+<area shape="rect" id="node79" href="$group__Output.html#classcrpropa_1_1ShellPropertyOutput" title="Show the candidate properties in the shell. " alt="" coords="389,2859,528,2885"/>
+<area shape="rect" id="node80" href="$group__Propagation.html#classcrpropa_1_1SimplePropagation" title="Simple rectilinear propagation in absence of magnetic fields. " alt="" coords="393,2909,524,2936"/>
+<area shape="rect" id="node81" href="$group__EnergyLosses.html#classcrpropa_1_1SynchrotronRadiation" title="Synchrotron radiation of charged particles in magnetic fields. " alt="" coords="385,2960,532,2987"/>
+<area shape="rect" id="node37" href="$group__Condition.html#classcrpropa_1_1CubicBoundary" title="Flags a particle when exiting the cube. " alt="" coords="638,1060,749,1087"/>
+<area shape="rect" id="node38" href="$group__Condition.html#classcrpropa_1_1CylindricalBoundary" title="Flags a particle when leaving the cylinder. This module flags particles when outside of the cylinder..." alt="" coords="624,1111,763,1137"/>
+<area shape="rect" id="node39" href="$group__Condition.html#classcrpropa_1_1DetectionLength" title="Detects the candidate at a given trajectoryLength. " alt="" coords="635,1161,752,1188"/>
+<area shape="rect" id="node40" href="$group__Condition.html#classcrpropa_1_1EllipsoidalBoundary" title="Flags a particle when leaving the ellipsoid. " alt="" coords="625,1212,761,1239"/>
+<area shape="rect" id="node41" href="$group__Condition.html#classcrpropa_1_1MaximumTrajectoryLength" title="Deactivates the candidate beyond a maximum trajectory length. " alt="" coords="605,1263,781,1289"/>
+<area shape="rect" id="node42" href="$group__Condition.html#classcrpropa_1_1MinimumEnergy" title="Deactivates the candidate below a minimum energy. " alt="" coords="635,1313,751,1340"/>
+<area shape="rect" id="node43" href="$group__Condition.html#classcrpropa_1_1MinimumRedshift" title="Deactivates the candidate below a minimum redshift. " alt="" coords="631,1364,755,1391"/>
+<area shape="rect" id="node44" href="$group__Condition.html#classcrpropa_1_1MinimumRigidity" title="Deactivates the candidate below a minimum rigidity. " alt="" coords="634,1415,753,1441"/>
+<area shape="rect" id="node45" href="$group__Tools.html#classcrpropa_1_1ParticleFilter" title="Reject Particles not listed in filter. " alt="" coords="646,1465,741,1492"/>
+<area shape="rect" id="node46" href="$group__Condition.html#classcrpropa_1_1SphericalBoundary" title="Flag a particle when leaving the sphere. " alt="" coords="628,1516,759,1543"/>
+<area shape="rect" id="node63" href="$group__Output.html#classcrpropa_1_1HDF5Output" title="Output to HDF5 Format. " alt="" coords="645,2073,741,2100"/>
+<area shape="rect" id="node64" href="$group__Output.html#classcrpropa_1_1TextOutput" title="Configurable plain text output for cosmic ray information. " alt="" coords="650,2124,737,2151"/>
+<area shape="rect" id="node83" href="$group__Observer.html#classcrpropa_1_1ObserverDetectAll" title="Detects all particles. " alt="" coords="394,3011,523,3037"/>
+<area shape="rect" id="node84" href="$group__Observer.html#classcrpropa_1_1ObserverElectronVeto" title="Veto for electrons and positrons. " alt="" coords="383,3061,534,3088"/>
+<area shape="rect" id="node85" href="$group__Observer.html#classcrpropa_1_1ObserverInactiveVeto" title="Veto for inactive candidates. " alt="" coords="385,3112,533,3139"/>
+<area shape="rect" id="node86" href="$group__Observer.html#classcrpropa_1_1ObserverLargeSphere" title="Detects particles upon exiting a sphere. " alt="" coords="385,3163,533,3189"/>
+<area shape="rect" id="node87" href="$group__Observer.html#classcrpropa_1_1ObserverNeutrinoVeto" title="Veto for neutrinos. " alt="" coords="383,3213,534,3240"/>
+<area shape="rect" id="node88" href="$group__Observer.html#classcrpropa_1_1ObserverNucleusVeto" title="Veto for nuclei (including protons and neutrons) " alt="" coords="383,3264,534,3291"/>
+<area shape="rect" id="node89" href="$group__Observer.html#classcrpropa_1_1ObserverPhotonVeto" title="Veto for photons. " alt="" coords="387,3315,530,3341"/>
+<area shape="rect" id="node90" href="$group__Observer.html#classcrpropa_1_1ObserverPoint" title="Detects particles when reaching x = 0. " alt="" coords="406,3365,511,3392"/>
+<area shape="rect" id="node91" href="$group__Observer.html#classcrpropa_1_1ObserverRedshiftWindow" title="Detects particles in a given redshift window. " alt="" coords="373,3416,544,3443"/>
+<area shape="rect" id="node92" href="$group__Observer.html#classcrpropa_1_1ObserverSmallSphere" title="Detects particles upon entering a sphere. " alt="" coords="384,3467,533,3493"/>
+<area shape="rect" id="node93" href="$group__Observer.html#classcrpropa_1_1ObserverSurface" title="Detects particles crossing the durface. " alt="" coords="399,3517,519,3544"/>
+<area shape="rect" id="node94" href="$group__Observer.html#classcrpropa_1_1ObserverTimeEvolution" title="Observes the time evolution of the candidates (phase&#45;space elements) This observer is very useful if ..." alt="" coords="379,3568,538,3595"/>
+<area shape="rect" id="node95" href="$group__Observer.html#classcrpropa_1_1ObserverTracking" title="Tracks particles inside a sphere. " alt="" coords="396,3619,521,3645"/>
+<area shape="rect" id="node97" href="$group__SourceFeatures.html#classcrpropa_1_1SourceComposition" title="Multiple nuclei with power law spectrum between Emin and Z * Rmax. " alt="" coords="391,3669,527,3696"/>
+<area shape="rect" id="node98" href="$group__SourceFeatures.html#classcrpropa_1_1SourceDensityGrid" title="Random source positions from a density grid. " alt="" coords="393,3720,525,3747"/>
+<area shape="rect" id="node99" href="$group__SourceFeatures.html#classcrpropa_1_1SourceDensityGrid1D" title="Random source positions from a 1D density grid. " alt="" coords="384,3771,533,3797"/>
+<area shape="rect" id="node100" href="$group__SourceFeatures.html#classcrpropa_1_1SourceDirection" title="Emission in a discrete direction. " alt="" coords="401,3821,516,3848"/>
+<area shape="rect" id="node101" href="$group__SourceFeatures.html#classcrpropa_1_1SourceEmissionCone" title="Uniform random emission inside a cone. " alt="" coords="385,3872,533,3899"/>
+<area shape="rect" id="node102" href="$group__SourceFeatures.html#classcrpropa_1_1SourceEmissionMap" title="Deactivate Candidate if it has zero probability in provided EmissionMap. " alt="" coords="387,3923,530,3949"/>
+<area shape="rect" id="node103" href="$group__SourceFeatures.html#classcrpropa_1_1SourceEnergy" title="Sets the initial energy to a given value. " alt="" coords="407,3973,511,4000"/>
+<area shape="rect" id="node104" href="$group__SourceFeatures.html#classcrpropa_1_1SourceGenericComposition" title="Multiple nuclei with energies described by an expression string. " alt="" coords="368,4024,549,4051"/>
+<area shape="rect" id="node105" href="$group__SourceFeatures.html#classcrpropa_1_1SourceIsotropicEmission" title="Isotropic emission from a source. " alt="" coords="375,4075,542,4101"/>
+<area shape="rect" id="node106" href="$group__SourceFeatures.html#classcrpropa_1_1SourceMultipleParticleTypes" title="Multiple particle types with individual relative abundances. " alt="" coords="365,4125,553,4152"/>
+<area shape="rect" id="node107" href="$group__SourceFeatures.html#classcrpropa_1_1SourceMultiplePositions" title="Multiple point source positions with individual luminosities. " alt="" coords="377,4176,540,4203"/>
+<area shape="rect" id="node108" href="$group__SourceFeatures.html#classcrpropa_1_1SourceParticleType" title="Particle type at the source. " alt="" coords="391,4227,527,4253"/>
+<area shape="rect" id="node109" href="$group__SourceFeatures.html#classcrpropa_1_1SourcePosition" title="Position of a point source. " alt="" coords="403,4277,514,4304"/>
+<area shape="rect" id="node110" href="$group__SourceFeatures.html#classcrpropa_1_1SourcePowerLawSpectrum" title="Particle energy following a power law spectrum. " alt="" coords="369,4328,549,4355"/>
+<area shape="rect" id="node111" href="$group__SourceFeatures.html#classcrpropa_1_1SourcePulsarDistribution" title="Source distribution following the Galactic pulsar distribution. " alt="" coords="375,4379,542,4405"/>
+<area shape="rect" id="node112" href="$group__SourceFeatures.html#classcrpropa_1_1SourceRedshift" title="Discrete redshift (time of emission) " alt="" coords="403,4429,515,4456"/>
+<area shape="rect" id="node113" href="$group__SourceFeatures.html#classcrpropa_1_1SourceRedshift1D" title="Redshift according to the distance to 0. " alt="" coords="394,4480,523,4507"/>
+<area shape="rect" id="node114" href="$group__SourceFeatures.html#classcrpropa_1_1SourceRedshiftEvolution" title="Random redshift (time of emission) from (1+z)^m distribution. " alt="" coords="375,4531,542,4557"/>
+<area shape="rect" id="node115" href="$group__SourceFeatures.html#classcrpropa_1_1SourceSNRDistribution" title="Source distribution that follows the Galactic SNR distribution. " alt="" coords="379,4581,538,4608"/>
+<area shape="rect" id="node116" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniform1D" title="1D&#45;Positions from a uniform source distribution in an expanding universe " alt="" coords="395,4632,522,4659"/>
+<area shape="rect" id="node117" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformBox" title="Uniform random source positions inside a box. " alt="" coords="393,4683,525,4709"/>
+<area shape="rect" id="node118" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformCylinder" title="Uniform random source positions inside a Cylinder. " alt="" coords="380,4733,537,4760"/>
+<area shape="rect" id="node119" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformHollowSphere" title="Uniform random source positions inside of a hollow sphere wall. " alt="" coords="363,4784,554,4811"/>
+<area shape="rect" id="node120" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformRedshift" title="Random redshift (time of emission) from uniform distribution. " alt="" coords="379,4835,538,4861"/>
+<area shape="rect" id="node121" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformShell" title="Uniform random source positions on a sphere. " alt="" coords="389,4885,528,4912"/>
+<area shape="rect" id="node122" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformSphere" title="Uniform random source positions inside a sphere. " alt="" coords="383,4936,534,4963"/>
+<area shape="rect" id="node124" href="$group__SourceFeatures.html#classcrpropa_1_1Source" title="General cosmic ray source. " alt="" coords="427,4987,490,5013"/>
+<area shape="rect" id="node125" href="$group__SourceFeatures.html#classcrpropa_1_1SourceList" title="List of cosmic ray sources of individual lumosities. " alt="" coords="417,5037,501,5064"/>
+<area shape="rect" id="node127" href="$group__Core.html#classcrpropa_1_1ParaxialBox" title="A box with perpendicular surfaces aligned to the x,y,z&#45;axes. " alt="" coords="413,5088,505,5115"/>
+<area shape="rect" id="node128" href="$group__Core.html#classcrpropa_1_1Plane" title="A plane given by a point x0 and two axes v1 and v2 with normal n = v1.cross(v2) or the normal n..." alt="" coords="431,5139,486,5165"/>
+<area shape="rect" id="node129" href="$group__Core.html#classcrpropa_1_1Sphere" title="A sphere around point _center with radius _radius. " alt="" coords="427,5189,490,5216"/>
+</map>

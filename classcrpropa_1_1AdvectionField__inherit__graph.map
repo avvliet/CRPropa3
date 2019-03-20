@@ -1,0 +1,8 @@
+<map id="AdvectionField" name="AdvectionField">
+<area shape="rect" id="node3" href="$classcrpropa_1_1AdvectionFieldList.html" title="Advection field decorator implementing a superposition of fields. " alt="" coords="330,5,459,32"/>
+<area shape="rect" id="node4" href="$classcrpropa_1_1ConstantSphericalAdvectionField.html" title="Spherical advection field with a constant wind speed. " alt="" coords="301,57,488,98"/>
+<area shape="rect" id="node5" href="$classcrpropa_1_1SphericalAdvectionField.html" title="Spherical advection with a exponentially increasing and exponentially constant velocity. " alt="" coords="313,123,476,149"/>
+<area shape="rect" id="node6" href="$classcrpropa_1_1SphericalAdvectionShock.html" title="Spherical advection with a constant velocity for r&lt;r_0 at the the shock the velocity drops to v_0/4..." alt="" coords="309,173,480,200"/>
+<area shape="rect" id="node7" href="$classcrpropa_1_1UniformAdvectionField.html" title="Advection field with one velocity/advection&#45;field vector. " alt="" coords="317,224,472,251"/>
+<area shape="rect" id="node2" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="6,123,95,149"/>
+</map>

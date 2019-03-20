@@ -1,0 +1,19 @@
+<map id="MagneticField" name="MagneticField">
+<area shape="rect" id="node3" href="$group__MagneticFields.html#classcrpropa_1_1AMRMagneticField" title="Wrapper for saga::MagneticField. " alt="" coords="323,5,456,32"/>
+<area shape="rect" id="node4" href="$classcrpropa_1_1ArchimedeanSpiralField.html" title="Magnetic field model following a Archimedean spiral. " alt="" coords="310,56,469,83"/>
+<area shape="rect" id="node5" href="$classcrpropa_1_1JF12Field.html" title="JF12Field galactic magnetic field model. " alt="" coords="350,107,429,133"/>
+<area shape="rect" id="node7" href="$classcrpropa_1_1LogarithmicSpiralField.html" title="Galactic disk field model of axisymmetric (ASS) or bisymmetric (BSS) logarithmic spiral shape..." alt="" coords="314,157,465,184"/>
+<area shape="rect" id="node8" href="$group__MagneticFields.html#classcrpropa_1_1MagneticDipoleField" title="Magnetic dipole field defined by the magnetic moment and the &#39;core&#39; radius. " alt="" coords="319,208,459,235"/>
+<area shape="rect" id="node9" href="$group__MagneticFields.html#classcrpropa_1_1MagneticFieldEvolution" title="Magnetic field decorator implementing an evolution of type (1+z)^m. " alt="" coords="311,259,468,285"/>
+<area shape="rect" id="node10" href="$group__MagneticFields.html#classcrpropa_1_1MagneticFieldGrid" title="Magnetic field on a periodic (or reflective), cartesian grid with trilinear interpolation. " alt="" coords="326,309,453,336"/>
+<area shape="rect" id="node11" href="$group__MagneticFields.html#classcrpropa_1_1MagneticFieldList" title="Magnetic field decorator implementing a superposition of fields. " alt="" coords="327,360,451,387"/>
+<area shape="rect" id="node12" href="$group__MagneticFields.html#classcrpropa_1_1ModulatedMagneticFieldGrid" title="Modulated magnetic field on a periodic grid. " alt="" coords="296,411,483,437"/>
+<area shape="rect" id="node13" href="$group__MagneticFields.html#classcrpropa_1_1PeriodicMagneticField" title="Magnetic field decorator implementing periodic fields. " alt="" coords="314,461,465,488"/>
+<area shape="rect" id="node14" href="$classcrpropa_1_1PT11Field.html" title="PT11Field" alt="" coords="349,512,430,539"/>
+<area shape="rect" id="node15" href="$classcrpropa_1_1QuimbyMagneticField.html" title="Wrapper for quimby::MagneticField. " alt="" coords="315,563,463,589"/>
+<area shape="rect" id="node16" href="$group__MagneticFields.html#classcrpropa_1_1RenormalizeMagneticField" title="Renormalize strength of a given field by expression in which B is the strength variable. " alt="" coords="301,613,477,640"/>
+<area shape="rect" id="node17" href="$classcrpropa_1_1TorroidalHaloField.html" title="Galactic halo field model from Prouza &amp; Smida 2003 and Sun et al. 2008. " alt="" coords="326,664,453,691"/>
+<area shape="rect" id="node18" href="$group__MagneticFields.html#classcrpropa_1_1UniformMagneticField" title="Magnetic field with one B&#45;field vector. " alt="" coords="315,715,464,741"/>
+<area shape="rect" id="node2" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="6,360,95,387"/>
+<area shape="rect" id="node6" href="$classcrpropa_1_1JF12FieldSolenoidal.html" title="JF12FieldSolenoidal galactic magnetic field model. " alt="" coords="531,107,669,133"/>
+</map>

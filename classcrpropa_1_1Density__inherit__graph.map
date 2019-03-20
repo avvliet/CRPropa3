@@ -1,0 +1,8 @@
+<map id="Density" name="Density">
+<area shape="rect" id="node3" href="$classcrpropa_1_1ConstantDensity.html" title="ConstantDensity" alt="" coords="5,155,125,181"/>
+<area shape="rect" id="node4" href="$classcrpropa_1_1Cordes.html" title="zylindrical symetrical model of the density of ionised hydrogen (HII) of the Milkyway Cordes et al..." alt="" coords="149,155,213,181"/>
+<area shape="rect" id="node5" href="$classcrpropa_1_1DensityList.html" title="Superposition of density models. the addDensity function adds a new density to the list..." alt="" coords="237,155,325,181"/>
+<area shape="rect" id="node6" href="$classcrpropa_1_1Ferriere.html" title="model of the distribution of hydrogen in the Milky Way Here in model Ferriere 2007 seperated in 2 reg..." alt="" coords="349,155,416,181"/>
+<area shape="rect" id="node7" href="$classcrpropa_1_1Nakanishi.html" title="zylindrical symetrical model of the density distribution of the Milkyway for atomic (HI) and molecula..." alt="" coords="440,155,519,181"/>
+<area shape="rect" id="node2" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="237,5,325,32"/>
+</map>

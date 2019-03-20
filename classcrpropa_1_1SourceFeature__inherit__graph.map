@@ -1,0 +1,29 @@
+<map id="SourceFeature" name="SourceFeature">
+<area shape="rect" id="node3" href="$group__SourceFeatures.html#classcrpropa_1_1SourceComposition" title="Multiple nuclei with power law spectrum between Emin and Z * Rmax. " alt="" coords="327,5,463,32"/>
+<area shape="rect" id="node4" href="$group__SourceFeatures.html#classcrpropa_1_1SourceDensityGrid" title="Random source positions from a density grid. " alt="" coords="329,56,461,83"/>
+<area shape="rect" id="node5" href="$group__SourceFeatures.html#classcrpropa_1_1SourceDensityGrid1D" title="Random source positions from a 1D density grid. " alt="" coords="320,107,469,133"/>
+<area shape="rect" id="node6" href="$group__SourceFeatures.html#classcrpropa_1_1SourceDirection" title="Emission in a discrete direction. " alt="" coords="337,157,452,184"/>
+<area shape="rect" id="node7" href="$group__SourceFeatures.html#classcrpropa_1_1SourceEmissionCone" title="Uniform random emission inside a cone. " alt="" coords="321,208,469,235"/>
+<area shape="rect" id="node8" href="$group__SourceFeatures.html#classcrpropa_1_1SourceEmissionMap" title="Deactivate Candidate if it has zero probability in provided EmissionMap. " alt="" coords="323,259,466,285"/>
+<area shape="rect" id="node9" href="$group__SourceFeatures.html#classcrpropa_1_1SourceEnergy" title="Sets the initial energy to a given value. " alt="" coords="343,309,447,336"/>
+<area shape="rect" id="node10" href="$group__SourceFeatures.html#classcrpropa_1_1SourceGenericComposition" title="Multiple nuclei with energies described by an expression string. " alt="" coords="304,360,485,387"/>
+<area shape="rect" id="node11" href="$group__SourceFeatures.html#classcrpropa_1_1SourceIsotropicEmission" title="Isotropic emission from a source. " alt="" coords="311,411,478,437"/>
+<area shape="rect" id="node12" href="$group__SourceFeatures.html#classcrpropa_1_1SourceMultipleParticleTypes" title="Multiple particle types with individual relative abundances. " alt="" coords="301,461,489,488"/>
+<area shape="rect" id="node13" href="$group__SourceFeatures.html#classcrpropa_1_1SourceMultiplePositions" title="Multiple point source positions with individual luminosities. " alt="" coords="313,512,476,539"/>
+<area shape="rect" id="node14" href="$group__SourceFeatures.html#classcrpropa_1_1SourceParticleType" title="Particle type at the source. " alt="" coords="327,563,463,589"/>
+<area shape="rect" id="node15" href="$group__SourceFeatures.html#classcrpropa_1_1SourcePosition" title="Position of a point source. " alt="" coords="339,613,450,640"/>
+<area shape="rect" id="node16" href="$group__SourceFeatures.html#classcrpropa_1_1SourcePowerLawSpectrum" title="Particle energy following a power law spectrum. " alt="" coords="305,664,485,691"/>
+<area shape="rect" id="node17" href="$group__SourceFeatures.html#classcrpropa_1_1SourcePulsarDistribution" title="Source distribution following the Galactic pulsar distribution. " alt="" coords="311,715,478,741"/>
+<area shape="rect" id="node18" href="$group__SourceFeatures.html#classcrpropa_1_1SourceRedshift" title="Discrete redshift (time of emission) " alt="" coords="339,765,451,792"/>
+<area shape="rect" id="node19" href="$group__SourceFeatures.html#classcrpropa_1_1SourceRedshift1D" title="Redshift according to the distance to 0. " alt="" coords="330,816,459,843"/>
+<area shape="rect" id="node20" href="$group__SourceFeatures.html#classcrpropa_1_1SourceRedshiftEvolution" title="Random redshift (time of emission) from (1+z)^m distribution. " alt="" coords="311,867,478,893"/>
+<area shape="rect" id="node21" href="$group__SourceFeatures.html#classcrpropa_1_1SourceSNRDistribution" title="Source distribution that follows the Galactic SNR distribution. " alt="" coords="315,917,474,944"/>
+<area shape="rect" id="node22" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniform1D" title="1D&#45;Positions from a uniform source distribution in an expanding universe " alt="" coords="331,968,458,995"/>
+<area shape="rect" id="node23" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformBox" title="Uniform random source positions inside a box. " alt="" coords="329,1019,461,1045"/>
+<area shape="rect" id="node24" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformCylinder" title="Uniform random source positions inside a Cylinder. " alt="" coords="316,1069,473,1096"/>
+<area shape="rect" id="node25" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformHollowSphere" title="Uniform random source positions inside of a hollow sphere wall. " alt="" coords="299,1120,490,1147"/>
+<area shape="rect" id="node26" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformRedshift" title="Random redshift (time of emission) from uniform distribution. " alt="" coords="315,1171,474,1197"/>
+<area shape="rect" id="node27" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformShell" title="Uniform random source positions on a sphere. " alt="" coords="325,1221,464,1248"/>
+<area shape="rect" id="node28" href="$group__SourceFeatures.html#classcrpropa_1_1SourceUniformSphere" title="Uniform random source positions inside a sphere. " alt="" coords="319,1272,470,1299"/>
+<area shape="rect" id="node2" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="6,639,95,665"/>
+</map>

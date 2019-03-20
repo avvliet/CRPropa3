@@ -1,0 +1,8 @@
+<map id="DetectionLength" name="DetectionLength">
+<area shape="rect" id="node2" href="$classcrpropa_1_1AbstractCondition.html" title="Abstract Module providing common features for conditional modules. " alt="" coords="114,216,240,243"/>
+<area shape="rect" id="node3" href="$classcrpropa_1_1Module.html" title="Abstract base class for modules. " alt="" coords="41,83,105,109"/>
+<area shape="rect" id="node4" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="5,5,93,32"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="150,83,204,109"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="119,5,259,32"/>
+<area shape="rect" id="node7" href="$group__Core.html" title="ref_ptr\&lt; crpropa::Module \&gt;" alt="" coords="229,83,405,109"/>
+</map>

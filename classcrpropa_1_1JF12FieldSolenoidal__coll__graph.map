@@ -1,0 +1,6 @@
+<map id="JF12FieldSolenoidal" name="JF12FieldSolenoidal">
+<area shape="rect" id="node2" href="$classcrpropa_1_1JF12Field.html" title="JF12Field galactic magnetic field model. " alt="" coords="133,187,211,213"/>
+<area shape="rect" id="node3" href="$group__MagneticFields.html#classcrpropa_1_1MagneticField" title="Abstract base class for magnetic fields. " alt="" coords="5,83,107,109"/>
+<area shape="rect" id="node4" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="11,5,100,32"/>
+<area shape="rect" id="node5" href="$group__Core.html" title="ref_ptr\&lt; crpropa::Grid \&gt;" alt="" coords="131,83,289,109"/>
+</map>

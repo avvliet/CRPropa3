@@ -1,0 +1,6 @@
+<map id="Output" name="Output">
+<area shape="rect" id="node4" href="$group__Output.html#classcrpropa_1_1HDF5Output" title="Output to HDF5 Format. " alt="" coords="5,229,101,256"/>
+<area shape="rect" id="node5" href="$group__Output.html#classcrpropa_1_1TextOutput" title="Configurable plain text output for cosmic ray information. " alt="" coords="126,229,212,256"/>
+<area shape="rect" id="node2" href="$classcrpropa_1_1Module.html" title="Abstract base class for modules. " alt="" coords="79,80,143,107"/>
+<area shape="rect" id="node3" href="$group__Core.html#classcrpropa_1_1Referenced" title="Base class for reference counting. " alt="" coords="66,5,155,32"/>
+</map>
