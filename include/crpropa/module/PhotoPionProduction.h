@@ -36,6 +36,7 @@ protected:
 	bool haveElectrons;
 	bool haveAntiNucleons;
 	bool haveRedshiftDependence;
+	bool haveNucleiCrossSections;
 
 public:
 	PhotoPionProduction(
@@ -45,13 +46,15 @@ public:
 		bool electrons = false,
 		bool antiNucleons = false,
 		double limit = 0.1,
-		bool haveRedshiftDependence = false);
+		bool haveRedshiftDependence = false,
+		bool haveNucleiCrossSections = false);
 	void setPhotonField(PhotonField photonField);
 	void setHavePhotons(bool b);
 	void setHaveNeutrinos(bool b);
 	void setHaveElectrons(bool b);
 	void setHaveAntiNucleons(bool b);
 	void setHaveRedshiftDependence(bool b);
+	void setHaveNucleiCrossSections(bool b);
 	void setLimit(double limit);
 	void initRate(std::string filename);
 	double nucleonMFP(double gamma, double z, bool onProton) const;

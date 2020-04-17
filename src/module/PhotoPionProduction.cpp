@@ -15,12 +15,13 @@
 
 namespace crpropa {
 
-PhotoPionProduction::PhotoPionProduction(PhotonField field, bool photons, bool neutrinos, bool electrons, bool antiNucleons, double l, bool redshift) {
+PhotoPionProduction::PhotoPionProduction(PhotonField field, bool photons, bool neutrinos, bool electrons, bool antiNucleons, double l, bool redshift, bool nucleiCrossSections) {
 	havePhotons = photons;
 	haveNeutrinos = neutrinos;
 	haveElectrons = electrons;
 	haveAntiNucleons = antiNucleons;
 	haveRedshiftDependence = redshift;
+	haveNucleiCrossSections = nucleiCrossSections;
 	limit = l;
 	setPhotonField(field);
 }
@@ -38,10 +39,20 @@ void PhotoPionProduction::setPhotonField(PhotonField field) {
 	}
 	std::string fname = photonFieldName(field);
 	setDescription("PhotoPionProduction: " + fname);
-	if (haveRedshiftDependence)
-		initRate(getDataPath("PhotoPionProduction/rate_" + fname.replace(0, 3, "IRBz") + ".txt"));
-	else
-		initRate(getDataPath("PhotoPionProduction/rate_" + fname + ".txt"));
+	if (haveRedshiftDepence) fname.replace(0, 3, "IRBz");
+	int id = candidate->current.getId();
+	int A = massNumber(id);
+	if (haveNucleiCrossSections && (A>1)) fname.replace(0, 3, "nuclei_IRB");
+	initRate(getDataPath("PhotoPionProduction/rate_" + fname + ".txt"));
+
+//	if (haveRedshiftDependence && !haveNucleiCrossSections)
+//		initRate(getDataPath("PhotoPionProduction/rate_" + fname.replace(0, 3, "IRBz") + ".txt"));
+//	else if (haveRedshiftDependence && haveNucleiCrossSections)
+//		initRate(getDataPath("PhotoPionProduction/rate_" + fname.replace(0, 3, "nuclei_IRBz") + ".txt"));
+//	else if (!haveRedshiftDependence && haveNucleiCrossSections)
+//		initRate(getDataPath("PhotoPionProduction/rate_" + fname.replace(0, 3, "nuclei_IRB") + ".txt"));
+//	else
+//		initRate(getDataPath("PhotoPionProduction/rate_" + fname + ".txt"));
 
 	int background = (photonField == CMB) ? 1 : 2; // photon background: 1 for CMB, 2 for Kneiske IRB
 	this->photonFieldSampling = PhotonFieldSampling(background);
@@ -65,6 +76,11 @@ void PhotoPionProduction::setHaveAntiNucleons(bool b) {
 
 void PhotoPionProduction::setHaveRedshiftDependence(bool b) {
 	haveRedshiftDependence = b;
+	setPhotonField(photonField);
+}
+
+void PhotoPionProduction::setHaveNucleiCrossSections(bool b) {
+	haveNucleiCrossSections = b;
 	setPhotonField(photonField);
 }
 
